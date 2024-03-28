@@ -1,2 +1,2 @@
 # php-array-utils
-Mix of illuminate/Support/Arr and Kohana's array helpers
+Mix of illuminate/Support/Arr and Kohana's array helpers including chaining.
