@@ -1,0 +1,16 @@
+{
+    "name": "santaklouse/php-array-utils",
+    "description": "Mix of illuminate/Support/Arr and Kohana's array helpers including chaining.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "version": "v0.1",
+    "require": {
+        "php": "^8.0"
+    }
+}

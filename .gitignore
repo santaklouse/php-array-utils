@@ -4,3 +4,8 @@ manifest/tmp/
 symphony/
 workspace/uploads/
 install-log.txt
+
+/vendor/
+
+.idea
+composer.lock
